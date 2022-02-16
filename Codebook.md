@@ -66,7 +66,7 @@ All Mag in column’s name replaced by Magnitude
 All start with character f in column’s name replaced by Frequency
 All start with character t in column’s name replaced by Time
 
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+CREATE A SECOND INDEPENDENT DATASET USING AVERAGE OF EACH VARIABLE IN ACTIVITY AND SUBJECT
 Grouped the data by subject and activty
 finaldata is then created by summarizing data by taking the means of each variable in each activity and  subject
 

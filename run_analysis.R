@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Course Project
 # Taylor Lange
-# February 15, 2022
+# February 16, 2022
 
 #Create an R script that:
 # (1) Merges the training and the test sets to create one data set.
